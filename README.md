@@ -38,5 +38,6 @@ After some minutes (or hours, depending on increment, target, speed etc...) you'
 
 If there is big variations between the beginning and the end, then target may be vulnerable to Long password DoS
 
+![Successful attack](success.png)
 
 
